@@ -1,0 +1,8 @@
+{
+  "name": "GitHub Project Hub",
+  "description": "Continuación y desarrollo de tu proyecto de GitHub.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
